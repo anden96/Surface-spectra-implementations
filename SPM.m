@@ -1,4 +1,4 @@
-
+% Implementation of elfouhaily spectra on small pertubations model.
 U10 = [5 10 15];
 U19 = 1.026*U10;
 epsr = 20;
